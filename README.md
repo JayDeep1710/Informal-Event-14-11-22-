@@ -11,12 +11,12 @@
     -Hand detection using mediapipe
     -Flappy control using the distance between the fingers
 4. Age and Gender prediction:
-    -Modules: OpenCV
-    -Face detection
-    -Detected Face passed to Age and Gender Models which predict the same
-    -Predection is shown on the Camera Feed
+    - Modules: OpenCV
+    - Face detection
+    - Detected Face passed to Age and Gender Models which predict the same
+    - Predection is shown on the Camera Feed
 5. Gyroscope:
-   - Applications and details along with live feedback of MPU6050 Gyroscope Accelerometer
+    - Applications and details along with live feedback of MPU6050 Gyroscope Accelerometer
 6. Drone:
 7. RC plane:
 

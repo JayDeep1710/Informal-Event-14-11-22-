@@ -17,7 +17,7 @@
     - Predection is shown on the Camera Feed
 5. Gyroscope:
     - Applications and details along with live feedback of MPU6050 Gyroscope Accelerometer
-6. Drone:
-7. RC plane:
+6. Drone
+7. RC plane
 
     

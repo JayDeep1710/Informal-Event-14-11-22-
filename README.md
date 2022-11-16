@@ -9,6 +9,7 @@
 3. Gesture controlled Flappy Bird:
 4. Age and Gender prediction:
 5. Gyroscope:
+   - Applications and details along with live feedback of MPU6050 Gyroscope Accelerometer
 6. Drone:
 7. RC plane:
 

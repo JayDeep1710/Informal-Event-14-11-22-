@@ -7,7 +7,7 @@
     - The threshold set for stopping distance was 17 Cm
 2. LED Strip hologram
 3. Gesture controlled Flappy Bird:
-    -Modules Used opencv ,pygame,mediapipe
+    -Modules Used opencv ,pygame,mediapipe 
     -Hand detection using mediapipe
     -Flappy control using the distance between the fingers
 4. Age and Gender prediction:
